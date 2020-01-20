@@ -1,0 +1,35 @@
+
+insert into people (fullname, gender, birthdate) values ('Ullyses', 'male', '1950-05-12');
+insert into people (fullname, gender, birthdate) values ('Nadin', 'female', '1954-04-13');
+insert into people (fullname, gender, birthdate, deathdate) values ('German','male', '1952-01-01', '1990-05-06');
+insert into people (fullname, gender, birthdate) values ('Valerie','female', '1956-02-08');
+insert into people (fullname, gender, birthdate, deathdate) values ('Maurizio','male', '1974-11-10', '1986-03-02');
+insert into people (fullname, gender, birthdate) values ('Arman','male', '1978-04-04');
+insert into people (fullname, gender, birthdate) values ('Virginia','female', '1977-02-01');
+insert into people (fullname, gender, birthdate) values ('Felizia','female', '1979-08-13');
+insert into people (fullname, gender, birthdate) values ('Charles','male', '1975-07-22');
+insert into people (fullname, gender, birthdate, deathdate) values ('Michelle','female', '1977-05-20', '1995-03-12');
+insert into people (fullname, gender, birthdate) values ('Frank','male', '1998-04-03');
+insert into people (fullname, gender, birthdate) values ('Paul','male', '2000-08-13');
+insert into people (fullname, gender, birthdate) values ('Diane','female', '1995-03-12');
+insert into people (fullname, gender, birthdate) values ('Franzisk','male', '2019-12-23');
+insert into people (fullname, gender, birthdate) values ('Virgile','male','2019-12-23');
+
+insert into parents_children values (1,5);
+insert into parents_children values (1,6);
+insert into parents_children values (2,5);
+insert into parents_children values (2,6);
+insert into parents_children values (3,7);
+insert into parents_children values (3,8);
+insert into parents_children values (4,7);
+insert into parents_children values (4,8);
+insert into parents_children values (6,11);
+insert into parents_children values (6,12);
+insert into parents_children values (7,11);
+insert into parents_children values (7,12);
+insert into parents_children values (9,13);
+insert into parents_children values (10,13);
+insert into parents_children values (12,14);
+insert into parents_children values (12,15);
+insert into parents_children values (13,14);
+insert into parents_children values (13,15);
